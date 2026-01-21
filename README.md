@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋 I'm Manshi 
 
-<!--
-**manshi54/manshi54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student  
+📊 Learning Data Science  
+🖥️ Operating Systems | 🧪 Software Testing  
 
-Here are some ideas to get you started:
+I am a beginner and currently learning core computer science subjects.
+I will upload my projects and practice work step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📚 Currently Learning
+- Data Science (Python, Pandas, NumPy)
+- Operating System Concepts
+- Software Testing (Manual Testing)
+- Git & GitHub
+
+---
+
+## 🛠️ Skills (Beginner Level)
+- Python
+- SQL (Basic)
+- Data Analysis Basics
+- Software Testing
+- OS Fundamentals
+
+---
+
+## 🎯 Goals
+- Build beginner-friendly projects
+- Improve coding skills
+- Create a strong GitHub profile
+
+⭐ Thank you for visiting my profile!
